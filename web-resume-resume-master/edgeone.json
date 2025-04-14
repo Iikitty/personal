@@ -1,0 +1,11 @@
+{
+  "name": "web-resume",
+  "version": "1.0.0",
+  "description": "个人简历网站",
+  "main": "index2.html",
+  "scripts": {
+    "start": "echo '网站已启动'"
+  },
+  "author": "wttAndroid",
+  "license": "MIT"
+} 
